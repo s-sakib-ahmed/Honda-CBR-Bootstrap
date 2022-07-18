@@ -1,0 +1,15 @@
+.header_bg{
+    background-color: #264653;
+}
+.header_img{
+    width: 80%
+}
+.gs{
+    filter: grayscale(1);
+}
+.orrange{
+    color: #E77C40;
+}
+.btn-bg{
+    background-color: #E76F51;
+}
